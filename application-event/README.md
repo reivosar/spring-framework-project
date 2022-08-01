@@ -3,7 +3,7 @@ This project is to confirm that event sourcing is possible with Spring Boot.
 
 # Requirement
 
-* Java SE 11
+* Java SE 17
 
 # Implementation
 1. Execute the following classes.

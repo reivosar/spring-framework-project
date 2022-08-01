@@ -1,13 +1,13 @@
-package reivosar.websocket.messaging;
+package reivosar;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WebsocketMessagingApplication {
+public class Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(WebsocketMessagingApplication.class, args);
+        SpringApplication.run(Application.class, args);
     }
 
 }

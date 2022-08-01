@@ -1,4 +1,4 @@
-package reivosar.websocket.messaging;
+package reivosar.websocket;
 
 public class Greeting {
 

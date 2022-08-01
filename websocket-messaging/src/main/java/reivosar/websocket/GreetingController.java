@@ -1,4 +1,4 @@
-package reivosar.websocket.messaging;
+package reivosar.websocket;
 
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.SendTo;
