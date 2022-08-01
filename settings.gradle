@@ -1,0 +1,4 @@
+rootProject.name = 'spring-framework-project'
+include 'application-event'
+include 'websocket-messaging'
+
